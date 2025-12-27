@@ -1,3 +1,3 @@
 ```
-https://www.notion.so/nvminh162/6-Global-infrastructure-aws-2c9fa13fb87f8075b5c0c821a8256f59?source=copy_link
+https://www.notion.so/nvminh162/7-Computing-services-ec2-2d6fa13fb87f80409e35dcc48edf7c38?source=copy_link
 ```
