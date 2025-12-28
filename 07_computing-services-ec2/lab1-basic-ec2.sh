@@ -5,7 +5,7 @@ sudo yum update -y
 #Instal HTTPD
 sudo yum install httpd -y
 
-#Modify below file:
+# Edit file index: Modify below file:
 /var/www/html/index.html
 #Add some html code:
 <h1>Welcome to Udemy</h1>
