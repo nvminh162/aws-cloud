@@ -16,4 +16,3 @@ sudo yum install httpd -y
 sudo systemctl enable httpd
 sudo service httpd start
 service httpd status
-
