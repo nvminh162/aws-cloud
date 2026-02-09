@@ -6,7 +6,7 @@ chconfig httpd on
 cd /var/www/html
 echo "<html>" > index.html
 
-echo "<h1 style='color:green;'>Welcome to Udemy instance - B</h1>" >> index.html
+echo "<h1 style='color:green;'>Welcome to nvminh162 instance - B</h1>" >> index.html
 echo "<h4 style='color:red;'>You are running instance from this IP (For debug only!!!!Do not public this to user):</h4>" >> index.html
 
 export TOKEN=`curl -X PUT "http://169.254.169.254/latest/api/token" -H "X-aws-ec2-metadata-token-ttl-seconds: 21600"`
