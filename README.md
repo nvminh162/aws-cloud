@@ -25,7 +25,8 @@
 
 | Folder | Description |
 |---------|--------|
-| [`resource`](../resource/) | Resource |
+| [`docs`](./docs/) | Documents & Notes |
+| [`resource`](./resource/) | Resource |
 ---
 
 <div align="center">
