@@ -18,6 +18,7 @@
 | 08 | IAM (Identity & Access Management) | [🔗 Open](https://www.notion.so/nvminh162/8-Identity-and-Access-Management-iam-2dbfa13fb87f80fe8d7ae9053533d66b) |
 | 09 | S3 (Simple Storage Service) | [🔗 Open](https://www.notion.so/nvminh162/9-Simple-storage-service-S3-2fefa13fb87f80e9b130ccefff76faec) |
 | 10 | Load Balancing & Auto Scaling | [🔗 Open](https://www.notion.so/nvminh162/10-Load-balancing-auto-scaling-2fffa13fb87f80ad9ed7f40808ea15e4) |
+| 11 | Database services - RDS | [🔗 Open](https://www.notion.so/nvminh162/11-Database-services-RDS-305fa13fb87f809d8e05eb8dd29a21d2) |
 
 ---
 
