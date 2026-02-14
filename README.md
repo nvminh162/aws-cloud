@@ -20,6 +20,7 @@
 | 10 | Load Balancing & Auto Scaling | [🔗 Open](https://www.notion.so/nvminh162/10-Load-balancing-auto-scaling-2fffa13fb87f80ad9ed7f40808ea15e4) |
 | 11 | Database services - RDS | [🔗 Open](https://www.notion.so/nvminh162/11-Database-services-RDS-305fa13fb87f809d8e05eb8dd29a21d2) |
 | 12 | Database Services - NoSQL - DynamoDB | [🔗 Open](https://www.notion.so/nvminh162/12-Database-Services-NoSQL-DynamoDB-307fa13fb87f8042b41fdc3e02e58d0c) |
+| 13 | Serverless Lambda | [🔗 Open](https://www.notion.so/nvminh162/13-Serverless-Lambda-307fa13fb87f804ca017d3077f56955b) |
 
 ---
 
