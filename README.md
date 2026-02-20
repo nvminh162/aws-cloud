@@ -22,6 +22,8 @@
 | 12 | Database Services - NoSQL - DynamoDB | [🔗 Open](https://www.notion.so/nvminh162/12-Database-Services-NoSQL-DynamoDB-307fa13fb87f8042b41fdc3e02e58d0c) |
 | 13 | Serverless Lambda | [🔗 Open](https://www.notion.so/nvminh162/13-Serverless-Lambda-307fa13fb87f804ca017d3077f56955b) |
 | 14 | Networking service - VPC, Peering, Endpoint | [🔗 Open](https://www.notion.so/nvminh162/14-Networking-service-VPC-Peering-Endpoint-30dfa13fb87f8012b4bdc7cb92d6de7b) |
+| 15 | API Gateway & Cognito | [🔗 Open](https://www.notion.so/nvminh162/15-API-Gateway-Cognito-30dfa13fb87f80aa8fceecc6aadbf736?source=copy_link) |
+| 16 | Content Delivery Service (CDN) - CloudFront | [🔗 Open](https://www.notion.so/nvminh162/16-Content-Delivery-Service-CDN-CloudFront-30dfa13fb87f809f93a7f84ee6cc0774?source=copy_link) |
 
 ---
 
