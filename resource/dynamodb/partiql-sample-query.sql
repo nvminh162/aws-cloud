@@ -1,7 +1,7 @@
 -- search base on name
 SELECT * 
 FROM "student"
-WHERE CONTAINS(name, 'Linh');
+WHERE CONTAINS(name, 'Minh');
 
 -- search base on is_married
 SELECT * 
@@ -11,9 +11,9 @@ WHERE is_married = false;
 -- search base on skill
 SELECT * 
 FROM "student"
-WHERE CONTAINS (skills, 'guitar');
+WHERE CONTAINS (skills, 'dance');
 
 -- search base on hobbies
 SELECT * 
 FROM "student"
-WHERE CONTAINS (hobbies, 'piano');
+WHERE CONTAINS (hobbies, 'gym');
