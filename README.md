@@ -1,6 +1,6 @@
-# ☁️ AWS Cloud — Notion Notebooks
+# ☁️ AWS - Amazon Web Services Cloud
 
-> **Handlebook AWS Cloud**
+> **Handlebook Notion**
 
 ---
 
@@ -31,7 +31,7 @@
 
 | Folder | Description |
 |---------|--------|
-| [`docs`](./docs/) | Documents & Notes |
+| [`docs`](./docs/) | Documents |
 | [`resource`](./resource/) | Resource |
 ---
 
