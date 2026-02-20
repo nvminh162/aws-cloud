@@ -21,6 +21,7 @@
 | 11 | Database services - RDS | [🔗 Open](https://www.notion.so/nvminh162/11-Database-services-RDS-305fa13fb87f809d8e05eb8dd29a21d2) |
 | 12 | Database Services - NoSQL - DynamoDB | [🔗 Open](https://www.notion.so/nvminh162/12-Database-Services-NoSQL-DynamoDB-307fa13fb87f8042b41fdc3e02e58d0c) |
 | 13 | Serverless Lambda | [🔗 Open](https://www.notion.so/nvminh162/13-Serverless-Lambda-307fa13fb87f804ca017d3077f56955b) |
+| 14 | Networking service - VPC, Peering, Endpoint | [🔗 Open](https://www.notion.so/nvminh162/14-Networking-service-VPC-Peering-Endpoint-30dfa13fb87f8012b4bdc7cb92d6de7b) |
 
 ---
 
