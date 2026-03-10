@@ -1,4 +1,4 @@
-# ☁️ AWS - Amazon Web Services Cloud LAB ^^
+# ☁️ AWS - Amazon Web Services Cloud LAB
 > **Handlebook Notion LAB**
 
 ---
